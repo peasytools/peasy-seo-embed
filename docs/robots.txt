@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# PeasySEO Embed Widget
+# Main site: https://peasyseo.com
+# Widget docs: https://widget.peasyseo.com
+# npm: https://www.npmjs.com/package/peasy-seo-embed
